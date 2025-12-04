@@ -4,7 +4,7 @@ This project predicts mobile phone pricing categories (low, medium, high, very h
 
 ---
 
-## 🔹 Features  
+## 📊 Features  
 ✅ **Predicts price category of a mobile phone**  
 ✅ **Uses Random Forest Classifier for accurate results**  
 ✅ **Scales features for better performance**  
