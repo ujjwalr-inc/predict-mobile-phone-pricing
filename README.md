@@ -22,7 +22,7 @@ This project predicts mobile phone pricing categories (low, medium, high, very h
 ---
 
 ## 📂 Dataset  
-The dataset is taken from `ujjwalr03/predict-mobile-phone-pricing` and contains features like:
+The dataset is taken from `ujjwalr-inc/predict-mobile-phone-pricing` and contains features like:
 - **Battery Power**
 - **Bluetooth Availability**
 - **Clock Speed**
@@ -41,7 +41,7 @@ The dataset is automatically fetched from GitHub.
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/ujjwalr03/predict-mobile-phone-pricing.git
+   git clone https://github.com/ujjwalr-inc/predict-mobile-phone-pricing.git
    cd predict-mobile-phone-pricing
    ```
 
@@ -60,7 +60,7 @@ The dataset is automatically fetched from GitHub.
 ## 🔗 Open in Google Colab  
 Click below to open the notebook in **Google Colab**:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ujjwalr03/predict-mobile-phone-pricing/blob/main/predict-mobile-phone-pricing-colab.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ujjwalr-inc/predict-mobile-phone-pricing/blob/main/predict-mobile-phone-pricing-colab.ipynb)  
 
 ### Steps in Google Colab:
 1. Click **"Open in Colab"** above.  
